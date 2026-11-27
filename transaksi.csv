@@ -1,0 +1,15 @@
+usernamelogin,tanggal_sewa,tanggal_kembali,durasi,daftar_barang,total,metode,status_pembayaran,status_sewa
+Vivicans,27-12-2026,28-12-2026,1.0,Baju Base Layer x1;Hydropack x1;Headlamp x1,45000.0,Transfer,Lunas,Sudah Dikembalikan
+Dono,27-11-2026,28-11-2026,1.0,Paket Camping Bersamamu x1,210000.0,Cash,Lunas,Sudah Dikembalikan
+Vivicans,20-11-2026,25-11-2026,5.0,Paket Camping Bersamamu x1,1050000.0,Cash,Lunas,Sudah Dikembalikan
+Vivicans,21-11-2026,26-11-2026,5.0,Hydropack x3,225000.0,Cash,Belum Lunas,Belum Dimulai
+Vivicans,20-11-2026,27-11-2026,7.0,Hydropack x3;Topi Gunung x1,350000.0,Transfer,Belum Lunas,Belum Dimulai
+Vivicans,27-11-2026,6-11-2027,344.0,Hydropack x3;Topi Gunung x1;Sarung Tangan Gunung x1,18920000.0,Transfer,Lunas,Sudah Dikembalikan
+Vivicans,27-11-2026,27-11-2027,365.0,Paket Camping Bersamamu x1,76650000.0,Transfer,Lunas,Sedang Disewa
+david,11-12-2026,14-12-2026,3.0,Kacamata Gunung x1,9000.0,Transfer,Lunas,Sudah Dikembalikan
+david,11-12-2026,14-12-2026,3.0,Flysheet x2,60000.0,Transfer,Lunas,Sudah Dikembalikan
+david,27-11-2026,28-11-2026,1.0,Paket Camping Bersamamu x1,210000.0,Cash,Lunas,Sudah Dikembalikan
+azhar,15-02-2015,15-02-2016,365.0,Pasak 1 set x2,3650000.0,Cash,Lunas,Sudah Dikembalikan
+azhar,12-2-2026,12-02-2027,365.0,Meja Lipat x1,5475000.0,Cash,Lunas,Sudah Dikembalikan
+azhar,26-11-2026,27-11-2026,1.0,Topi Gunung x1,5000.0,Cash,Lunas,Sedang Disewa
+chila9,12-12-2026,13-12-2026,1.0,Paket Camping Bersamamu x1,210000.0,Transfer,Lunas,Sedang Disewa
